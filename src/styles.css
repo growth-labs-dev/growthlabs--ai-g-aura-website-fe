@@ -240,6 +240,7 @@ button, a { -webkit-tap-highlight-color: transparent; }
 .service-grid dl div { display: grid; gap: 5px; }
 .service-grid dt { color: #929ca1; font-size: .56rem; text-transform: uppercase; letter-spacing: .08em; }
 .service-grid dd { margin: 0; font-size: .73rem; font-weight: 700; }
+.service-grid article > small { display: block; margin-top: 15px; color: #8a959a; font-size: .58rem; line-height: 1.5; }
 .incidents { margin-top: 50px; }
 .incidents > h2 { font-size: 1.25rem; }
 .incidents > p { color: #718087; font-size: .82rem; }
